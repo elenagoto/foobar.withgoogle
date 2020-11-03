@@ -16,8 +16,22 @@ I have accepted the invitation and I have decided to document my process, as far
 
 ## About me
 
-After several years in the world of humanities and museums, I decided to change my path and become a Web Developper. I knew this wasn't going to be easy, however, I had the great luck of finding [the school I needed to start my training](https://www.extensionschool.ch/), and I've been training in programming and Web development with them since 2019 (2018 if you count the intro courses!). This has made this process a little easier 😊.
+After several years in the world of humanities and museums, I decided to change my path and become a Web Developper. I knew this wasn't going to be easy, however, I had the great luck of finding [the school I needed to start my training](https://www.extensionschool.ch/), and I've been training in programming and Web development with them since 2019 (2018 if you count the intro courses!). This has made things a lot easier than expected 😊.
 
-But this means I'm very new to the world of programming! And all the mathematical knowledge I may need to complete this challenges is something I have yet to acquire. I'm sure that, even if I can't complete all the challenges, I'll learn a lot!
+This means, however, that I'm very new to the world of programming! And all the mathematical knowledge I may need to complete this challenges is something I have yet to acquire. I'm sure that, even if I can't complete all the challenges, I'll learn a lot!
 
 \*\*_The screenshots are from two weeks later, when I got the invitation again. The first time I didn't even think about doing it!_
+
+## Current status
+
+Today I completed the second challenge of the second level!
+![Second level completed screen](images/completed-second-level.png)
+
+Level 1:
+
+- [Minion Labor Shifts](https://github.com/elenagoto/foobar.withgoogle/tree/main/01_minion-labor-shifts)
+
+Level 2:
+
+- [Gearing Up for Destruction](https://github.com/elenagoto/foobar.withgoogle/tree/main/0201_gearing-up-for-destruction)
+- [Lovely Lucky LAMBs](https://github.com/elenagoto/foobar.withgoogle/tree/main/0202_lovely-lucky-lambs)
