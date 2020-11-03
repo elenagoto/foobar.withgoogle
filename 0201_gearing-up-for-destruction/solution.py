@@ -21,7 +21,7 @@ def solution(pegs):
         r0 = Fraction(float(2 * (-p0 + pCenter + pn)) / 3).limit_denominator()
     # odd list
     else:
-        r0 = Fraction(2 * (-p0 + pCenter - pn)).limit_denominator()
+        r0 = Fraction(2 * (-p0 + pCenter - pn))
 
     # If radius 0 is smaller than 2
     if r0 < 2:

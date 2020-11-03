@@ -1,4 +1,5 @@
-# Minion Labor Shifts
+Minion Labor Shifts
+==================
 
 Commander Lambda's minions are upset! They're given the worst jobs on the whole space station, and some of them are starting to complain that even those worst jobs are being allocated unfairly. If you can fix this problem, it'll prove your chops to Commander Lambda so you can get promoted!
 
@@ -6,12 +7,15 @@ Minions' tasks are assigned by putting their ID numbers into a list, one time fo
 
 Write a function called solution(data, n) that takes in a list of less than 100 integers and a number n, and returns that same list but with all of the numbers that occur more than n times removed entirely. The returned list should retain the same ordering as the original list - you don't want to mix up those carefully-planned shift rotations! For instance, if data was [5, 10, 15, 10, 7] and n was 1, solution(data, n) would return the list [5, 15, 7] because 10 occurs twice, and thus was removed from the list entirely.
 
-# Languages
+Languages
+==========
 
 To provide a Python solution, edit solution.py
 To provide a Java solution, edit Solution.java
 
-# Test cases
+
+Test cases
+==========
 
 Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
