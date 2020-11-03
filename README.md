@@ -20,4 +20,4 @@ After several years in the world of humanities and museums, I decided to change 
 
 But this means I'm very new to the world of programming! And all the mathematical knowledge I may need to complete this challenges is something I have yet to acquire. I'm sure that, even if I can't complete all the challenges, I'll learn a lot!
 
-\*\*_The screenshots are from two weeks later, when I got the invitation again. The first time I didn't even thought about doing it!_
+\*\*_The screenshots are from two weeks later, when I got the invitation again. The first time I didn't even think about doing it!_
