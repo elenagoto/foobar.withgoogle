@@ -46,9 +46,9 @@ The rules to follow were:
   - Can't be more than double than the previous element.
   - Can't be smaller than the two previous combined.
 - Fist item in the list will be 1.
-- Second item be at least 1.
+- Second item will be at least 1.
 
-The generous list should follow the logic `current_element = previous_element \* 2``
+The generous list should follow the logic `current_element = previous_element \* 2`
 
 The stingy list should follow the **Fiboacci numbers** logic where the current_element is equal to the sum of the two previous elements. And the list should start with two elements, like this `[1,1]`, since it is the minimum we can pay the lowest ranked henchmen.
 
