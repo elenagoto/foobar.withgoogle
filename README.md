@@ -1,6 +1,6 @@
 # My FooBar Challenge
 
-Two weeks ago (October 20, 2020\*\*), while looking, once again for _list comprehension in python_, my google results screen opened up...
+Two weeks ago (Oct. 20, 2020\*\*), while looking, once again for _list comprehension in python_, my google results screen opened up...
 
 ![results screen with foobar message](images/opened_screen.png)
 
@@ -20,11 +20,10 @@ After several years in the world of humanities and museums, I decided to change 
 
 This means, however, that I'm very new to the world of programming! And all the mathematical knowledge I may need to complete this challenges is something I have yet to acquire. I'm sure that, even if I can't complete all the challenges, I'll learn a lot!
 
-\*\*_The screenshots are from two weeks later, when I got the invitation again. The first time I didn't even think about doing it!_
-
 ## Current status
 
-Today I completed the second challenge of the second level!
+Today (Nov. 03, 2020) I completed the second challenge of the second level!
+
 ![Second level completed screen](images/completed-second-level.png)
 
 Level 1:
@@ -35,3 +34,5 @@ Level 2:
 
 - [Gearing Up for Destruction](https://github.com/elenagoto/foobar.withgoogle/tree/main/0201_gearing-up-for-destruction)
 - [Lovely Lucky LAMBs](https://github.com/elenagoto/foobar.withgoogle/tree/main/0202_lovely-lucky-lambs)
+
+\*\*_The screenshots are from two weeks later, when I got the invitation again. The first time I didn't even think about doing it!_
