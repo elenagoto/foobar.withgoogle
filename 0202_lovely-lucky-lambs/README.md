@@ -42,10 +42,9 @@ It was clear for me that I needed two list, one with the minimum required amount
 
 The rules to follow were:
 
-current element:
-
-- Can't be more than double than the previous element.
-- Can't be smaller than the two previous combined.
+- Current element:
+  - Can't be more than double than the previous element.
+  - Can't be smaller than the two previous combined.
 - Fist item in the list will be 1.
 - Second item be at least 1.
 
