@@ -120,7 +120,7 @@ def solution(total_lambs):
     return max(stingy(total_lambs), generous(total_lambs)) - min(stingy(total_lambs), generous(total_lambs))
 ```
 
-I tested this first oficial solution and got 9 of 10 test correctly. However, I could see the problem in my logic. I even removed the `if` in the `solution(total_lambs)`, and nothing changed.
+I tested this first oficial solution and got 9 of 10 test correctly. However, I couldn't see the problem in my logic. I even removed the `if` in the `solution(total_lambs)` and nothing changed.
 
 So, I went online!
 
