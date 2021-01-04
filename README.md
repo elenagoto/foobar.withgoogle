@@ -22,7 +22,11 @@ This means, however, that I'm very new to the world of programming! And all the 
 
 ## Current status
 
-Today (Nov. 03, 2020) I completed the second challenge of the second level!
+Jan. 04, 2021 - After two months (The right time to complete my training - _Yay!_ - and give a proper end to the year!) I have requested a new challenge: **Prepare the Bunnies' Escape**! The problem can be found in the corresponding folder.
+
+## Previous status
+
+Nov. 03, 2020 - Today I completed the second challenge of the second level!
 
 ![Second level completed screen](images/completed-second-level.png)
 
@@ -34,5 +38,9 @@ Level 2:
 
 - [Gearing Up for Destruction](https://github.com/elenagoto/foobar.withgoogle/tree/main/0201_gearing-up-for-destruction)
 - [Lovely Lucky LAMBs](https://github.com/elenagoto/foobar.withgoogle/tree/main/0202_lovely-lucky-lambs)
+
+Level 3:
+
+- [Prepare the Bunnies' Escape](https://github.com/elenagoto/foobar.withgoogle/tree/main/0301_prepare-the-bunnies-escape)
 
 \*\*_The screenshots are from two weeks later, when I got the invitation again. The first time I didn't even think about doing it!_
